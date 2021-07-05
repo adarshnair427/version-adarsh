@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "30660116367",
+    "project_id": "fir-patient-information",
+    "storage_bucket": "fir-patient-information.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30660116367:android:82e6078dd9e8ea389855fa",
+        "android_client_info": {
+          "package_name": "com.pyramid.khushi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30660116367-ch56qtr04t4b4tog4sck0dfqt527skqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0zEOnXhNqNNel_h0MXcC1Gu4ntaT-yzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30660116367-ch56qtr04t4b4tog4sck0dfqt527skqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
